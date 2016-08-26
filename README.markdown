@@ -11,3 +11,9 @@ Teaching Git to engineers in Vyus Tech
 [jinnu]: https://github.com/jinnudeveloper
 [amal]: https://github.com/amalshehu
 [nandu]: https://github.com/nandu507
+
+# Topics Covered
+
+- [x] git push
+- [x] git pull
+- [x] git pull request

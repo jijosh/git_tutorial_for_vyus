@@ -12,7 +12,8 @@ Teaching Git to engineers in Vyus Tech
 [amal]: https://github.com/amalshehu
 [nandu]: https://github.com/nandusankar
 ## Tutor
-*[Jikku Jose][jikku]
-*[Rakesh][raku]
-[jikku] : https://github.com/JikkuJose
-[raku] : https://github.com/rakeshbs
+* [Jikku Jose][jikku]
+* [Rakesh][raku]
+
+[jikku]: https://github.com/JikkuJose
+[raku]: https://github.com/rakeshbs

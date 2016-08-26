@@ -8,6 +8,6 @@ Teaching Git to engineers in Vyus Tech
 2. [Nandu Sankar][nandu]
 3. [Jinnu Johnson][jinnu]
 
-[jinnu]: https://github.com/jinnudeveloper
+[jinnu]: https://github.com/jinnujohnson
 [amal]: https://github.com/amalshehu
 [nandu]: https://github.com/nandu507

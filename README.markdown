@@ -10,16 +10,8 @@ Teaching Git to engineers in Vyus Tech
 
 [jinnu]: https://github.com/jinnujohnson
 [amal]: https://github.com/amalshehu
-<<<<<<< HEAD
 [nandu]: https://github.com/nandusankar
-## Tutor
-* [Jikku Jose][jikku]
-* [Rakesh][raku]
 
-[jikku]: https://github.com/JikkuJose
-[raku]: https://github.com/rakeshbs
-=======
-[nandu]: https://github.com/nandu507
 
 ## Topics Covered
 
@@ -27,3 +19,10 @@ Teaching Git to engineers in Vyus Tech
 - [x] git pull
 - [x] git pull request
 >>>>>>> 34da2c18a45eb30acb5e86866d154471efedc0aa
+## Tutor
+
+* [Jikku Jose][jikku]
+* [Rakesh][raku]
+
+[jikku]: https://github.com/JikkuJose
+[raku]: https://github.com/rakeshbs

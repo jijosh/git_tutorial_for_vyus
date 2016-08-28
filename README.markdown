@@ -17,8 +17,8 @@ Teaching Git to engineers in Vyus Tech
 
 - [x] git push
 - [x] git pull
-- [x] git pull request
->>>>>>> 34da2c18a45eb30acb5e86866d154471efedc0aa
+
+
 ## Tutor
 
 * [Jikku Jose][jikku]
